@@ -1,0 +1,1 @@
+This directory will have python code for the Data Stuctures programs on www.geeksforgeeks.org
